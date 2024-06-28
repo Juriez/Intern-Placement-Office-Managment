@@ -1,4 +1,5 @@
 #Intern and Placement Office (IPO) Management System
+
 Overview:
 The Intern and Placement Office (IPO) Management System is designed to facilitate the internship placement process for BSSE 4th-year students at IIT. The system manages interactions between the IPO Committee (IPOC), students, and companies offering internships. It ensures a streamlined workflow from company enlistment, student application, and interview scheduling, to final selection and offer letter issuance.
 
